@@ -1,5 +1,5 @@
 {
-  "name": "remark-kbd",
+  "name": "remark-kbd-simple",
   "version": "1.0.0",
   "description": "remark plugin for kbd markups",
   "main": "lib/index.js",

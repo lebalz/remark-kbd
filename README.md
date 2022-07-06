@@ -1,4 +1,4 @@
-# remark-kbd
+# remark-kbd-simple
 ## Syntax
 
 ```md
@@ -33,7 +33,7 @@ This plugin is compatible with [rehype][https://github.com/rehypejs/rehype]. `kb
 ## Installation
 
 ```bash
-yarn add remark-kbd
+yarn add remark-kbd-simple
 ```
 
 ## Usage
