@@ -46,7 +46,7 @@ const remarkParse = require('remark-parse')
 const stringify = require('rehype-stringify')
 const remark2rehype = require('remark-rehype')
 
-const remarkKbd = require('remark-kbd')
+const remarkKbd = require('remark-kbd-simple')
 ```
 
 Usage:

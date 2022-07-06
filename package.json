@@ -1,6 +1,6 @@
 {
   "name": "remark-kbd-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remark plugin for kbd markups",
   "main": "lib/index.js",
   "author": "Balthasar Hofer <lebalz@outlook.com>",
@@ -8,6 +8,6 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lebalz/remark-kbd.git"
+    "url": "https://github.com/lebalz/remark-kbd-simple.git"
   }
 }
